@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohit kumar meena
-- 🌱 I’m currently learning web Development
+- 🌱 I’m a full stack Developer
 - I’m looking to collaborate on open source projects
 -  I'm looking for help with my projects
 - Fun fact: I love to play suduko in my free time 
